@@ -18,6 +18,7 @@ AI Red Teaming is the practice of intentionally stress-testing AI systems to unc
 Unlike traditional security testing, AI red teaming focuses on model behavior, not infrastructure exploitation.
 
 **What Is PyRIT?**
+
 PyRIT (Python Risk Identification Tool for Generative AI) is a framework designed to:
 
 - Automate adversarial prompt testing
