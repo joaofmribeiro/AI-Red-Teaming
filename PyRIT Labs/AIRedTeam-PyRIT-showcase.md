@@ -39,7 +39,9 @@ Converting back to normal text and submitting the password, although the initial
 <img width="1470" height="721" alt="image" src="https://github.com/user-attachments/assets/a89c2949-07bc-4d13-85ea-011a11a7c335" />
 
 
-**To make it a little more difficult, because Gandalf becomes stronger every level, lets swithc to LEVEL_5 for example:**
+**To make it a little more difficult, because Gandalf becomes stronger every level, lets switch to LEVEL_5 for example:**
+
+<img width="778" height="450" alt="image" src="https://github.com/user-attachments/assets/806e4514-0206-4497-8ca7-6022efeb22a5" />
 
 So in my variable for Gandalf_level, lets change to LEVEL_5. (full code in pyrit-gandalf-notebook and needs to be adjusted to your environment as it's required to have 3 Environment varialbes to make this run:
  - OPEN_AI_ENDPOINT;
