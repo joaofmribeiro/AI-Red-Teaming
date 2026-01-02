@@ -1,4 +1,6 @@
 **Please make sure you have PyRIT correctly installed and your environment variables are defined as per PyRIT public documentation.**
+PyRIT Public Repository: https://github.com/Azure/PyRIT/tree/main?tab=readme-ov-file#citing-pyrit
+
 Having PyRIT installed, I created this jupyter notebook to run through the exercise. 
 
 import textwrap
