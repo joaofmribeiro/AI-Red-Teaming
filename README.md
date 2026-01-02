@@ -1,5 +1,3 @@
-**AI Red Teaming with PyRIT**
-
 **Overview**
 
 
