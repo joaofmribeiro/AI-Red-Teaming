@@ -14,3 +14,14 @@ This prompt we're going to enter in one of the levels from Gandalf Lakera.
 
 
 <img width="1423" height="187" alt="image" src="https://github.com/user-attachments/assets/8bc302a5-c3e9-4e25-bd34-59170600a4e4" />
+
+
+Now lets see if this works, I'm going to enter ROT13 Converter prompt inside Gandalf prompt box. 
+
+
+
+It seems Gandalft responded back in the same language ROT13 Converter. Now lets translate back to random letters and submit the password to move to the next level.
+
+
+
+
