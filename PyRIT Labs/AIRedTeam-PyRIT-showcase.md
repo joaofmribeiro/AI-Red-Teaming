@@ -28,7 +28,6 @@ Converting back to normal text and submitting the password, although the initial
 <img width="352" height="300" alt="image" src="https://github.com/user-attachments/assets/937e59e6-03d7-4b8d-adad-e7557000d64e" />
 
 
-
-
+**This was an example of using Converters to bypass AI defenses. Now let's use PyRIT itself to play the same game.** 
 
 
