@@ -18,9 +18,16 @@ This prompt we're going to enter in one of the levels from Gandalf Lakera.
 
 Now lets see if this works, I'm going to enter ROT13 Converter prompt inside Gandalf prompt box. 
 
-
+<img width="547" height="307" alt="image" src="https://github.com/user-attachments/assets/9aaaf085-2d7b-499a-a544-fbd17c576092" />
 
 It seems Gandalft responded back in the same language ROT13 Converter. Now lets translate back to random letters and submit the password to move to the next level.
+
+Converting back to normal text and submitting the password, although the initial response was "PONTENIAL", most likely seems "POTENTIAL" and submitting that we pass to the next level:
+
+
+<img width="352" height="300" alt="image" src="https://github.com/user-attachments/assets/937e59e6-03d7-4b8d-adad-e7557000d64e" />
+
+
 
 
 
