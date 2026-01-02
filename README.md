@@ -29,12 +29,14 @@ PyRIT (Python Risk Identification Tool for Generative AI) is a framework designe
 PyRIT is model-agnostic and can be used with commercial APIs, open-source models, or internal LLM deployments.
 
 
-@misc{munoz2024pyritframeworksecurityrisk,
-      title={PyRIT: A Framework for Security Risk Identification and Red Teaming in Generative AI Systems},
-      author={Gary D. Lopez Munoz and Amanda J. Minnich and Roman Lutz and Richard Lundeen and Raja Sekhar Rao Dheekonda and Nina Chikanov and Bolor-Erdene Jagdagdorj and Martin Pouliot and Shiven Chawla and Whitney Maxwell and Blake Bullwinkel and Katherine Pratt and Joris de Gruyter and Charlotte Siska and Pete Bryan and Tori Westerhoff and Chang Kawaguchi and Christian Seifert and Ram Shankar Siva Kumar and Yonatan Zunger},
-      year={2024},
-      eprint={2410.02828},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2410.02828},
-}
+**Citing PyRIT**
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Microsoft, AI Red Team"
+title: "PyRIT: The Python Risk Identification Tool for generative AI"
+doi: https://doi.org/10.48550/arXiv.2410.02828
+date-released: 2024-02-21
+url: "https://github.com/Azure/PyRIT"
+
