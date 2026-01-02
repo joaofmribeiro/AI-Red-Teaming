@@ -1,6 +1,8 @@
 **AI Red Teaming with PyRIT**
 
-Overview
+**Overview**
+
+
 This repository focuses on AI Red Teaming using PyRIT (Python Risk Identification Tool for Generative AI) — an open-source framework developed by Microsoft for systematically identifying safety, security, and misuse risks in generative AI systems.
 
 The goal of this project is to demonstrate responsible, repeatable, and auditable AI risk testing, not to bypass safeguards in production systems.
