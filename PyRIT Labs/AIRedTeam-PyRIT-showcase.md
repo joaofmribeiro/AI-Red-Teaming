@@ -34,3 +34,28 @@ Converting back to normal text and submitting the password, although the initial
 **This was an example of using Converters to bypass AI defenses. Now let's use PyRIT itself to play the same game.** 
 
 
+**Trying LEVEL_1**
+
+<img width="1470" height="721" alt="image" src="https://github.com/user-attachments/assets/a89c2949-07bc-4d13-85ea-011a11a7c335" />
+
+
+**To make it a little more difficult, because Gandalf becomes stronger every level, lets swithc to LEVEL_5 for example:**
+
+So in my variable for Gandalf_level, lets change to LEVEL_5. (full code in pyrit-gandalf-notebook and needs to be adjusted to your environment as it's required to have 3 Environment varialbes to make this run:
+ - OPEN_AI_ENDPOINT;
+ - OPENAI_CHAT_KEY;
+ - OPENAI_CHAT_MODEL.
+
+<img width="330" height="43" alt="image" src="https://github.com/user-attachments/assets/932b8855-f7ea-4b8b-adfc-3e938701d10c" />
+
+
+This time, it took 6 attempts to bypass Gandalf AI Defenses, but still PyRIT managed to overcome and get the password to move onto the next level. 
+
+<img width="1473" height="627" alt="image" src="https://github.com/user-attachments/assets/bd528136-048b-4eff-a4c1-b352ec15cccb" />
+
+
+**Conversation history:**
+
+<img width="792" height="648" alt="image" src="https://github.com/user-attachments/assets/8c8d38ef-1747-4c07-9110-a1c02844f6d3" />
+
+<img width="790" height="436" alt="image" src="https://github.com/user-attachments/assets/3a850e28-a259-430f-8ad9-e6a18c7b51f8" />
