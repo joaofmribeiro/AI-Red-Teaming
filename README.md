@@ -30,6 +30,7 @@ PyRIT (Python Risk Identification Tool for Generative AI) is a framework designe
 PyRIT is model-agnostic and can be used with commercial APIs, open-source models, or internal LLM deployments.
 
 
+
 **Citing PyRIT**
 
 cff-version: 1.2.0
